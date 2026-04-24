@@ -78,7 +78,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/adityajoshi18vk-art/adityajoshi18vk-art/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/adityajoshi18vk-art/adityajoshi18vk-art/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
