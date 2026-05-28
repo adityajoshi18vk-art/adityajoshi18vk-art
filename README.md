@@ -62,13 +62,6 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityajoshi18vk-art&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajoshi18vk-art&theme=react-dark"/>
