@@ -166,13 +166,14 @@ Exploring a decentralized, zero-trust approach to bug bounty workflows, emphasiz
 
 ---
 
-## 🏅 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adityajoshi18vk-art&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)
-
-</div>
+<p align="center">
+  <img
+    src="https://trophy.ryglcloud.net/?username=adityajoshi18vk-art&theme=tokyonight&no-frame=true&no-bg=true&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
