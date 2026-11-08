@@ -149,9 +149,10 @@ Exploring a decentralized, zero-trust approach to bug bounty workflows, emphasiz
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityajoshi18vk-art&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/adityajoshi18vk-art)
+<img src="https://ghchart.rshah.org/7AA2F7/adityajoshi18vk-art" alt="Aditya's GitHub Contribution Graph" width="100%"/>
 
 </div>
+
 
 ---
 
